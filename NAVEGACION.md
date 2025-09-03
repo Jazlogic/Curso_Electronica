@@ -25,11 +25,11 @@
 - [Clase 2.7: Estadística y Ruido](modulo-02-matematicas-audio/clase-2-7-estadistica-ruido.md)
 
 ### [📚 Módulo 3: Programación Básica](modulo-03-programacion-basica/README.md)
-- [Clase 3.1: Introducción a la Programación](modulo-03-programacion-basica/clase-3-1-introduccion-programacion.md)
-- [Clase 3.2: Fundamentos de C](modulo-03-programacion-basica/clase-3-2-fundamentos-c.md)
-- [Clase 3.3: Programación en C++](modulo-03-programacion-basica/clase-3-3-programacion-cpp.md)
-- [Clase 3.4: Python para Análisis](modulo-03-programacion-basica/clase-3-4-python-analisis.md)
-- [Clase 3.5: Programación de Sistemas](modulo-03-programacion-basica/clase-3-5-programacion-sistemas.md)
+- [Clase 3.1: Fundamentos de C/C++](modulo-03-programacion-basica/clase-3-1-fundamentos-c-cpp.md)
+- [Clase 3.2: Estructuras de Datos y Algoritmos](modulo-03-programacion-basica/clase-3-2-estructuras-datos-algoritmos.md)
+- [Clase 3.3: Programación Orientada a Objetos](modulo-03-programacion-basica/clase-3-3-programacion-orientada-objetos.md)
+- [Clase 3.4: Python para Análisis de Audio](modulo-03-programacion-basica/clase-3-4-python-analisis-audio.md)
+- [Clase 3.5: Verilog/VHDL Básico](modulo-03-programacion-basica/clase-3-5-verilog-vhdl-basico.md)
 - [Clase 3.6: Optimización de Código](modulo-03-programacion-basica/clase-3-6-optimizacion-codigo.md)
 
 ### [📚 Módulo 4: Señales y Sistemas](modulo-04-senales-sistemas/README.md)
@@ -42,26 +42,25 @@
 - [Clase 4.7: Distorsión y Ruido](modulo-04-senales-sistemas/clase-4-7-distorsion-ruido.md)
 - [Clase 4.8: Medición de Señales](modulo-04-senales-sistemas/clase-4-8-medicion-senales.md)
 
-### [📚 Módulo 5: Procesamiento Digital de Señales](modulo-05-procesamiento-digital/README.md)
-- [Clase 5.1: Fundamentos del DSP](modulo-05-procesamiento-digital/clase-5-1-fundamentos-dsp.md)
-- [Clase 5.2: Filtros Digitales FIR](modulo-05-procesamiento-digital/clase-5-2-filtros-fir.md)
-- [Clase 5.3: Filtros Digitales IIR](modulo-05-procesamiento-digital/clase-5-3-filtros-iir.md)
-- [Clase 5.4: Efectos de Audio Básicos](modulo-05-procesamiento-digital/clase-5-4-efectos-audio-basicos.md)
-- [Clase 5.5: Compresión y Limitación](modulo-05-procesamiento-digital/clase-5-5-compresion-limitacion.md)
-- [Clase 5.6: Ecualización Digital](modulo-05-procesamiento-digital/clase-5-6-ecualizacion-digital.md)
-- [Clase 5.7: Análisis Espectral en Tiempo Real](modulo-05-procesamiento-digital/clase-5-7-analisis-espectral-tiempo-real.md)
-- [Clase 5.8: Síntesis y Generación de Audio](modulo-05-procesamiento-digital/clase-5-8-sintesis-generacion-audio.md)
-- [Clase 5.9: Optimización para Tiempo Real](modulo-05-procesamiento-digital/clase-5-9-optimizacion-tiempo-real.md)
+### [📚 Módulo 5: Procesamiento Digital de Señales (DSP)](modulo-05-procesamiento-digital-senales/README.md)
+- [Clase 5.1: Fundamentos del DSP](modulo-05-procesamiento-digital-senales/clase-5-1-fundamentos-dsp.md)
+- [Clase 5.2: Filtros Digitales FIR](modulo-05-procesamiento-digital-senales/clase-5-2-filtros-digitales-fir.md)
+- [Clase 5.3: Filtros Digitales IIR](modulo-05-procesamiento-digital-senales/clase-5-3-filtros-digitales-iir.md)
+- [Clase 5.4: Análisis Espectral](modulo-05-procesamiento-digital-senales/clase-5-4-analisis-espectral.md)
+- [Clase 5.5: Efectos de Audio](modulo-05-procesamiento-digital-senales/clase-5-5-efectos-audio.md)
+- [Clase 5.6: Síntesis de Audio](modulo-05-procesamiento-digital-senales/clase-5-6-sintesis-audio.md)
+- [Clase 5.7: Procesamiento en Tiempo Real](modulo-05-procesamiento-digital-senales/clase-5-7-procesamiento-tiempo-real.md)
+- [Clase 5.8: Implementación en Hardware](modulo-05-procesamiento-digital-senales/clase-5-8-implementacion-hardware.md)
 
 ### [📚 Módulo 6: Hardware para Audio](modulo-06-hardware-audio/README.md)
 - [Clase 6.1: Convertidores ADC/DAC](modulo-06-hardware-audio/clase-6-1-convertidores-adc-dac.md)
 - [Clase 6.2: Amplificadores de Audio](modulo-06-hardware-audio/clase-6-2-amplificadores-audio.md)
 - [Clase 6.3: Circuitos de Interfaz](modulo-06-hardware-audio/clase-6-3-circuitos-interfaz.md)
 - [Clase 6.4: Fuentes de Alimentación](modulo-06-hardware-audio/clase-6-4-fuentes-alimentacion.md)
-- [Clase 6.5: Protección y Seguridad](modulo-06-hardware-audio/clase-6-5-proteccion-seguridad.md)
-- [Clase 6.6: Control Digital](modulo-06-hardware-audio/clase-6-6-control-digital.md)
-- [Clase 6.7: Diseño de PCB](modulo-06-hardware-audio/clase-6-7-diseno-pcb.md)
-- [Clase 6.8: Medición y Calibración](modulo-06-hardware-audio/clase-6-8-medicion-calibracion.md)
+- [Clase 6.5: Protección y Control](modulo-06-hardware-audio/clase-6-5-proteccion-control.md)
+- [Clase 6.6: Diseño de PCB](modulo-06-hardware-audio/clase-6-6-diseno-pcb.md)
+- [Clase 6.7: Medición y Calibración](modulo-06-hardware-audio/clase-6-7-medicion-calibracion.md)
+- [Clase 6.8: Integración de Sistemas](modulo-06-hardware-audio/clase-6-8-integracion-sistemas.md)
 
 ### [📚 Módulo 7: Protocolos de Audio](modulo-07-protocolos-audio/README.md)
 - [Clase 7.1: Fundamentos de Protocolos de Audio](modulo-07-protocolos-audio/clase-7-1-fundamentos-protocolos-audio.md)
@@ -130,6 +129,8 @@
 - **Total de clases**: 89
 - **Duración estimada**: 300-400 horas
 - **Nivel**: Desde cero hasta experto
+- **Módulos completados**: 6/12
+- **Clases completadas**: 41/89
 
 ---
 
